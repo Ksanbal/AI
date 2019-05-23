@@ -1,0 +1,1 @@
+{'korean': 90, 'english': 95, 'mathematics': 85, 'science': 82}
